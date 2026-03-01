@@ -9,12 +9,11 @@
 
 ![App Screenshot](Screenshot_1.png)
 ![App Screenshot](Screenshot_2.png)
-![App Screenshot](Screenshot_3.png)
 
 ---
 
 ## 🌐 Live Demo
-👉 **LINK**
+👉 **[Open App](https://nurayarpa-financial-sentiment-analyzer-app-gzxrct.streamlit.app)**
 
 ---
 
@@ -165,7 +164,7 @@ The full analysis is in `notebooks/news_analysis.ipynb`:
 ## 👤 Author
 
 **Your Name**
-- 📧 nuray.mme.arpa@gmail.com
+- 📧 nuray.m.arpa@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/nuray-arpa-698584194/)
 - 🐙 [GitHub](https://github.com/nurayarpa)
 
